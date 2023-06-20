@@ -20,8 +20,8 @@ I'm a Machine Learning Operations Engineer who loves to build scalable ML System
 <!-- Connect with Me -->
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--username-blue)](https://www.linkedin.com/in/ajeya-kempegowda-217a678a/)
-[![Twitter](https://img.shields.io/badge/Twitter-your--twitter--handle-blue)](https://twitter.com/ajeyamk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ajeya-kempegowda-217a678a/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/ajeyamk)
 [![Instagram](https://img.shields.io/badge/Instagram-Red)](http://instagram.com/ajeyamk)
 
 <!-- GitHub Activity -->
