@@ -35,6 +35,4 @@ I'm a Machine Learning Operations Engineer who loves to build scalable ML System
 <!-- Footer -->
 <div align="center">
 
-**Thanks for visiting my profile!** 😄
-
 </div>
