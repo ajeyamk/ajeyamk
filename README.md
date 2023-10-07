@@ -24,9 +24,6 @@ Hey there, people of the interwebs. I work full time as a Machine Learning Opera
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeyamk&layout=compact&theme=radical)
 
-<!-- Contribution Graph -->
-## Contribution Graph
-![Your Name's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ajeyamk&theme=react-dark)
 
 🚀 May your code be bug-free and your coffee always strong!
 
