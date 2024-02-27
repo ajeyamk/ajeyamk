@@ -1,6 +1,5 @@
 <!-- Your Name -->
 # Hello, I'm Ajeya Kempegowda! 👋
-![hello-cat-gif](https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif)
 
 <!-- One liner about you -->
 Hey there, people of the interwebs. I work full time as a Machine Learning Operations Engineer and I enjoy building scalable ML Systems. 
