@@ -7,7 +7,7 @@ Hey there, people of the interwebs. I work full time as a Machine Learning Opera
 <!-- About Me -->
 ## About Me
 
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Terraform, MLOps and LLMOps
 - 💬 Ask me about ML Systems, AWS, Python, Data Science
 - 😄 Pronouns: he/him
 
@@ -16,13 +16,6 @@ Hey there, people of the interwebs. I work full time as a Machine Learning Opera
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ajeya-kempegowda-217a678a/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/ajeyamk)
 [![Instagram](https://img.shields.io/badge/Instagram-Red)](http://instagram.com/ajeyamk)
-
-<!-- GitHub Stats -->
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajeyamk&show_icons=true&theme=radical)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajeyamk&layout=compact&theme=radical)
-
 
 🚀 May your code be bug-free and your coffee always strong!
 
