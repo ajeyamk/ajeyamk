@@ -2,14 +2,13 @@
 # Hello, I'm Ajeya Kempegowda! 👋
 
 <!-- One liner about you -->
-Hey there, people of the interwebs. I work full time as a Machine Learning Operations Engineer and I enjoy building scalable ML Systems. 
+Hey there, I work full time as a Machine Learning Operations Engineer and I enjoy building scalable ML Systems. 
 
 <!-- About Me -->
 ## About Me
 
-- 🌱 I’m currently learning Terraform, MLOps and LLMOps
+- 🌱 I’m currently learning Terraform, MLOps 
 - 💬 Ask me about ML Systems, AWS, Python, Data Science
-- 😄 Pronouns: he/him
 
 <!-- Connect with Me -->
 ## Connect with Me
